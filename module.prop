@@ -1,0 +1,9 @@
+id=touch.enhancer
+name=Touch Enhancer
+version=v2.0.1
+versionCode=201
+author=kirkthatshit!
+description=Improves touch responsiveness and reduces input latency.
+banner:banner.png
+minmagisk=30000
+updateJson=https://raw.githubusercontent.com/kirkthatshitt/touch-enhancer/master/module.json
